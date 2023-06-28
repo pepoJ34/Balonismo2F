@@ -43,7 +43,7 @@ public class Pessoa {
         this.emergencia = emergencia;
     }
 
-    public boolean isAssinaturaTermo(){
+    public boolean getAssinaturaTermo(){
         return assinaturaTermo;
     }
     public void setAssinaturaTermo(boolean assinaturaTermo){

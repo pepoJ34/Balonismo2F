@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f4c070-e9c2-4452-a772-954e25e81dea" name="Changes" comment="criação e análise dos atributos da classe Pessoa.">
-      <change afterPath="$PROJECT_DIR$/src/Balao2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalaoAtv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piloto.java" afterDir="false" />
+    <list default="true" id="60f4c070-e9c2-4452-a772-954e25e81dea" name="Changes" comment="Encapsulamento e codificação dos construtores (parte 1)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Balao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +28,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;Z:/LPAP/workspace/Balonismo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "Z:/LPAP/workspace/aulas-logica-aplicada-2F"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +48,7 @@
       <workItem from="1686046708248" duration="2760000" />
       <workItem from="1686655347215" duration="695000" />
       <workItem from="1686656065629" duration="11000" />
-      <workItem from="1687863228763" duration="3932000" />
+      <workItem from="1687863228763" duration="4838000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <created>1685618812607</created>
@@ -84,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686656025643</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Encapsulamento e codificação dos construtores (parte 1)">
+      <created>1687867307330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687867307330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +107,7 @@
     <MESSAGE value="primeira classe" />
     <MESSAGE value="construi e analisei balão" />
     <MESSAGE value="criação e análise dos atributos da classe Pessoa." />
-    <option name="LAST_COMMIT_MESSAGE" value="criação e análise dos atributos da classe Pessoa." />
+    <MESSAGE value="Encapsulamento e codificação dos construtores (parte 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulamento e codificação dos construtores (parte 1)" />
   </component>
 </project>
