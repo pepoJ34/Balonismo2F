@@ -14,7 +14,7 @@ public class Main {
 
         BalaoAtv b2 = new BalaoAtv();
         b2.setNumeroBalao("672");
-        b2.setRegistro("22314");
+        b2.setRegistro("Ultimas 32 viagens perfeitamente executadas");
 
         Piloto p1 = new Piloto();
         System.out.println("Insira CPF do Piloto: ");
